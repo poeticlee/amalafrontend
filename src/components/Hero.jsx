@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section
       id="hero"
-      className="h-screen w-screen mx-auto flex flex-col justify-center items-center text-center bg-[url('assets/food5.jpeg')] bg-cover bg-center bg bg-gray-100 px-4 mt-20 "
+      className="h-screen w-screen mx-auto flex flex-col justify-center items-center text-center bg-[url('/assets/food5.jpeg')] bg-cover bg-center bg bg-gray-100 px-4 mt-20 "
 
     >
       <h1 className="text-5xl text-white md:text-6xl font-bold mb-4">
