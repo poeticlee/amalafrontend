@@ -84,7 +84,7 @@ function Projects() {
           Ita Faaji is our annual end-of-summer charity event designed to blend fun with purpose.
           It's a celebration of food, music, and community—dedicated to supporting the Royal
           National Institute of Blind People (RNIB). The event features entertainment and fundraising
-          initiatives aimed at creating rosty puffs—sugar-free opportunities and awareness for the
+          initiatives aimed at creating opportunities and awareness for the
           visually impaired. Ita Faaji reflects our commitment to social impact and inclusivity.
         </p>
         <h3 className="text-red-500 text-2xl mb-1.5">Gallery</h3>
