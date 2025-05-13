@@ -17,20 +17,61 @@ function Contact() {
         <p className="mb-6 text-2xl font-semibold">
           For your events ,parties and joyful gatherings.
         </p>
-       
 
         <p className="mb-6 text-xl font-semibold">
-          {" "}
-          Email : info@faajigrills.co.uk
-        </p>
-
-        <p className='mb-6 text-xl font-semibold'>
-  Telephone number: <a href="tel:+442080448299" className="!text-black hover:underline">+442080448299</a>
+  Email:{" "}
+  <a
+    href="mailto:info@faajigrills.co.uk"
+    className="!text-black hover:text-blue-600 active:text-blue-700 underline ml-1"
+  >
+    info@faajigrills.co.uk
+  </a>
 </p>
+
 
 <p className='mb-6 text-xl font-semibold'>
-  Instagram: <a href="https://www.instagram.com/faajigrills" target="_blank" rel="noopener noreferrer" className="!text-black hover:underline">@faajigrills</a>
+  Telephone number: <a 
+    href="tel:+442080448299" 
+    className="!text-black hover:text-blue-600 active:text-blue-800 underline-offset-2 hover:underline"
+  >
+    +442080448299
+  </a>
 </p>
+
+<p className="mb-6 text-xl font-semibold w-full flex justify-center"> 
+  Facebook:{" "}
+  <a
+    href="https://www.facebook.com/faajigrills"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="!text-black !hover:underline flex items-center ml-2 space-x-1"
+  >
+    <img
+      src="/assets/facebook1.jpeg"
+      alt="Facebook"
+      className="w-5 h-5 object-cover"
+    />
+    <span>Faajigrills</span>
+  </a>
+</p>
+<p className="mb-6 text-xl font-semibold w-full flex justify-center"> 
+  Instagram:{" "}
+  <a
+    href="https://www.instagram.com/faajigrills"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="!text-black !hover:underline flex items-center ml-2 space-x-1"
+  >
+    <img
+      src="/assets/instagram1.jpeg"
+      alt="Instagram"
+      className="w-5 h-5 object-cover"
+    />
+    <span>Faajigrills</span>
+  </a>
+</p>
+
+
 
       </div>
     </section>

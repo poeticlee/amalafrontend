@@ -60,14 +60,14 @@ const main = [
     id: 1,
     name: "Jollof rice(Party Style)",
     image: "/assets/jollofrice.jpeg",
-     price :"1/2 cooler £70/4liters £40"
-    
+     price :"1/4 cooler £50/1/2 cooler £80"
+   
   },
   {
     id: 2,
     name: "Fried rice",
     image: "/assets/friedrice.jpeg",
-       price :"1/2 cooler £70/4liters £40"
+       price :"1/4 cooler £60/1/2 cooler £100"
   },
   {
     id: 3,
@@ -149,7 +149,7 @@ const soups = [
   },
   {
     id:9,
-    name: "Caramandy(non-alcholic beer with lemon&caramel)",
+    name: "Caramandy(non-alcoholic beer with lemon&caramel)",
     image: "/assets/shandy.jpeg",
       price :"300ml £6/4liters £60"
   },

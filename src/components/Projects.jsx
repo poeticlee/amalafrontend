@@ -97,7 +97,7 @@ function Projects() {
             >
               <img
                 src={project.image}
-                alt={project.title}
+                
                 className="w-full h-60 object-cover object-top"
               />
               
